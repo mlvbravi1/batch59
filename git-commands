@@ -8,6 +8,10 @@ git config --list
 Paheses:
 
 
+1) Workspace
+2) Staging  / Index
+3) Local repo
+
 touch file1
 ls
 git status
